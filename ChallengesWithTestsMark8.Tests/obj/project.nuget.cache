@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/hbNTBtKzBMsbfI//a4x3+Jxq33egvtJ+9PfdsBCM0cgSd0pYqs1af3NA1sf+Fnp1+Y0h/eSvuhbPM6iTtqLnQ==",
+  "dgSpecHash": "aozbQCSgMFiUIciQ1mGFXrFynlN02pdwo8xwPQso+JwFPj5K8rG4sZ/vSbtWl5oigJHZtOuZ9Gzn/uq9Nhe9LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agarc\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+  "projectFilePath": "C:\\Users\\agarc\\C # repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agarc\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\agarc\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

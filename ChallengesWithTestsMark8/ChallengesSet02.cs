@@ -114,7 +114,7 @@ namespace ChallengesWithTestsMark8
                 return number / 2;
             }
 
-            long count = 0;
+            long count;
             for (long i = number; i >= 0 ; i--)
             {
                 if (i % 2 == 0)
